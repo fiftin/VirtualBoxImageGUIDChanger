@@ -1,0 +1,8 @@
+E:\shara\VirtualBoxImageGUIDChanger\VirtualBoxImageGUIDChanger\obj\Debug\ResolveAssemblyReference.cache
+E:\shara\VirtualBoxImageGUIDChanger\VirtualBoxImageGUIDChanger\obj\Debug\VirtualBoxImageGUIDChanger.Form1.resources
+E:\shara\VirtualBoxImageGUIDChanger\VirtualBoxImageGUIDChanger\obj\Debug\VirtualBoxImageGUIDChanger.Properties.Resources.resources
+E:\shara\VirtualBoxImageGUIDChanger\VirtualBoxImageGUIDChanger\obj\Debug\VirtualBoxImageGUIDChanger.csproj.GenerateResource.Cache
+E:\shara\VirtualBoxImageGUIDChanger\VirtualBoxImageGUIDChanger\bin\Debug\VirtualBoxImageGUIDChanger.exe
+E:\shara\VirtualBoxImageGUIDChanger\VirtualBoxImageGUIDChanger\bin\Debug\VirtualBoxImageGUIDChanger.pdb
+E:\shara\VirtualBoxImageGUIDChanger\VirtualBoxImageGUIDChanger\obj\Debug\VirtualBoxImageGUIDChanger.exe
+E:\shara\VirtualBoxImageGUIDChanger\VirtualBoxImageGUIDChanger\obj\Debug\VirtualBoxImageGUIDChanger.pdb
